@@ -1,5 +1,5 @@
+tensorflow
 streamlit
-tensorflow-cpu==2.15.0
 transformers==4.20.0
 torch==2.2.0
 matplotlib
