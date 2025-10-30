@@ -1,7 +1,7 @@
 streamlit
-tensorflow-cpu==2.17.0
-transformers
-torch
+tensorflow-cpu==2.15.0
+transformers==4.38.0
+torch==2.2.0
 matplotlib
 pandas
 numpy
