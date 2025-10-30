@@ -1,0 +1,4 @@
+{
+  "architectures": ["IndoBERTTokenizer"],
+  "model_type": "bert"
+}
